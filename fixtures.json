@@ -1,0 +1,50 @@
+{
+  "metrics": [
+    {
+      "name": "reqres",
+      "measures": [
+        {
+          "commit": "1887ff44",
+          "author": "Bertrand Chardon",
+          "timestamp": "1570871713258",
+          "measure": 140
+        },
+        {
+          "commit": "5687bb44",
+          "author": "Kevin Marques",
+          "timestamp": "1570871713670",
+          "measure": 22
+        },
+        {
+          "commit": "3987ff44",
+          "author": "Éric Masseran",
+          "timestamp": "1570871718888",
+          "measure": 120
+        },
+        {
+          "commit": "4587bb44",
+          "author": "Olivier Pichou",
+          "timestamp": "1570871720000",
+          "measure": 192
+        }
+      ]
+    },
+    {
+      "name": "registerCallback",
+      "measures": [
+        {
+          "commit": "18f7ff44",
+          "author": "Éric Masseran",
+          "timestamp": "1570871718888",
+          "measure": 89
+        },
+        {
+          "commit": "5607bb44",
+          "author": "Olivier Pichou",
+          "timestamp": "1570871720000",
+          "measure": 12
+        }
+      ]
+    }
+  ]
+}

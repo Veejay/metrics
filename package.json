@@ -1,0 +1,22 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "this module will be used to produce the graph that will allow the chapter to keep track of the evolution of the KPIs and metrics about the codebase",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "gnuplot": "^0.3.1"
+  },
+  "devDependencies": {
+    "btoa": "^1.2.1",
+    "chartjs": "^0.3.24",
+    "chartjs-node": "^1.7.1",
+    "node-chartist": "^1.0.5",
+    "svg2img": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
